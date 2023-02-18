@@ -8,8 +8,8 @@
  * Requires PHP:      7.4
  * Author:            Dan Ruscoe
  * Author URI:        https://ruscoe.org
- * License:           MIT
- * License URI:       https://mit-license.org/
+ * License:           GPLv2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       hello-quixote
  *
  * @package hello-quixote
