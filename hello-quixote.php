@@ -44,7 +44,7 @@ function hello_quixote_get_quote() {
 function hello_quixote_print_quote() {
 
     $quote = hello_quixote_get_quote();
-    printf( '<p style="bottom: 20px; position: absolute; text-align: center; width: 100%%">%s</p>', $quote );
+    printf( '<p style="bottom: 20px; right: 20px; position: absolute; text-align: right; width: 100%%">%s</p>', $quote );
 }
 
 add_action( 'admin_footer', 'hello_quixote_print_quote' );
