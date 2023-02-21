@@ -35,7 +35,7 @@ function hello_quixote_get_quote() {
         '"I mean, when the opportunity offers, to have a very rueful countenance painted on my shield."',
     ];
 
-    $index = rand(0, ( count( $quotes ) - 1 ) );
+    $index = rand( 0, ( count( $quotes ) -1 ) );
 
     return $quotes[$index];
 }
