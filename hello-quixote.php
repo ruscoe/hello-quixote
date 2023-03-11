@@ -44,6 +44,12 @@ function hello_quixote_get_quote() {
  * Prints a random quote.
  */
 function hello_quixote_print_quote() {
+    global $current_screen;
+
+    // Don't display quotes while editing content.
+    if ( 'post' === $current_screen->base ) {
+        return;
+    }
 
     $quote = hello_quixote_get_quote();
     printf( '<p style="bottom: 20px; right: 20px; position: absolute; text-align: right; width: 100%%">%s</p>', $quote );
