@@ -28,10 +28,10 @@ function hello_quixote_get_quote() {
         'With little sleep and much reading his brains got so dry that he lost his wits.',
         'It so possessed his mind that the whole fabric of invention and fancy he read of was true.',
         'He had been blanketed by beings of flesh and blood, and not by visionary and imaginary phantoms, as his master believed and protested.',
-        '"It is impossible for good or evil to last for ever; and hence it follows that the evil having lasted long, the good must be now nigh at hand"',
-        '"Fortune is arranging matters for us better than we could have shaped our desires ourselves"',
+        '"It is impossible for good or evil to last for ever; and hence it follows that the evil having lasted long, the good must be now nigh at hand."',
+        '"Fortune is arranging matters for us better than we could have shaped our desires ourselves."',
         'He gave the spur to his steed, heedless of the cries warning him that most certainly they were windmills and not giants.',
-        'He remained all the evening with his helmet on, the drollest and oddest figure that can be imagined',
+        'He remained all the evening with his helmet on, the drollest and oddest figure that can be imagined.',
         '"I mean, when the opportunity offers, to have a very rueful countenance painted on my shield."',
     ];
 
