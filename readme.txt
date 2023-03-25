@@ -10,9 +10,9 @@ A plugin that displays quotes from Don Quixote in the admin footer.
 
 == Description ==
 
-Add a literary classic to your WordPress admin section!
-
-This plugin displays quotes from Miguel de Cervantes' Don Quixote to the admin footer.
+Fight all your WordPress admin tasks on the back of the trusty Rocinante by
+installing a plugin that displays quotes from Miguel de Cervantes' Don Quixote
+in the admin footer!
 
 == Installation ==
 
