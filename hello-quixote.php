@@ -3,7 +3,7 @@
  * Plugin Name:       Hello Quixote
  * Plugin URI:        https://github.com/ruscoe/hello-quixote
  * Description:       Displays quotes from Don Quixote in the admin footer.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 1.2.0
  * Requires PHP:      7.4
  * Author:            Dan Ruscoe
