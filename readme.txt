@@ -1,8 +1,8 @@
 === Hello Quixote ===
 Contributors:      Dan Ruscoe
 Tags:              admin, fun
-Tested up to:      6.1
-Stable tag:        1.0.0
+Tested up to:      6.7.2
+Stable tag:        1.0.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,9 @@ in the admin footer!
 2. Activate the Hello Quixote plugin through the 'Plugins' screen in WordPress
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated tested up to version
 
 = 1.0.0 =
 * Release
